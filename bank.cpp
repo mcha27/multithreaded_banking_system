@@ -8,7 +8,7 @@ class Account{
         int64_t balance;
 
     void deposit(int64_t d_amount){
-        balance += d_amount
+        balance += d_amount;
     }
 };
 
